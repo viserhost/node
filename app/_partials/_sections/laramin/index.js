@@ -1,0 +1,1 @@
+export { Laramin as default } from './Laramin';
